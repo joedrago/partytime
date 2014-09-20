@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git://github.com/joedrago/partytime.git"
   },
+  "scripts": {
+    "build": "coffee -c partytime.coffee"
+  },
   "dependencies": {
     "minimist": "*",
     "async": "*",
