@@ -11,7 +11,7 @@
     "node": ">=0.8.0"
   },
   "bin": {
-    "partytime": "./main.js"
+    "partytime": "./bin/main"
   },
   "homepage": "http://github.com/joedrago/partytime",
   "repository": {
