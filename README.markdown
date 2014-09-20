@@ -8,7 +8,7 @@ Released under the Boost Software License (Version 1.0).
 Installation:
 -------------
 
-    npm install -g https://github.com/joedrago/partytime.git
+    npm install -g git+https://git@github.com/joedrago/partytime.git
 
 Commandline Usage:
 ------------------
