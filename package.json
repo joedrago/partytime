@@ -1,0 +1,29 @@
+{
+  "name": "partytime",
+  "description": "party time for matt",
+  "keywords": [
+    "youtube"
+  ],
+  "author": "Joe Drago",
+  "version": "0.0.1",
+  "license": "Boost",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "bin": {
+    "partytime": "./main.js"
+  },
+  "homepage": "http://github.com/joedrago/partytime",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joedrago/partytime.git"
+  },
+  "dependencies": {
+    "minimist": "*",
+    "async": "*",
+    "coffee-script": "*",
+    "progress-stream": "*",
+    "youtube-feeds": "*",
+    "ytdl-core": "*"
+  }
+}
